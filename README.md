@@ -2,7 +2,9 @@
 Implementation of "XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks"  
 with  
 PyTorch 1.1.0,  
-Jupyter Notebook . 
+Python 3.7,  
+Jupyter Notebook,  
+Google Colab.  
 
 ## In Progress
 Not completed yet.  
